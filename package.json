@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "sync-input": "https://github.com/hyperskill/sync-input/archive/release.tar.gz"
+  }
+}

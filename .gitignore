@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Coffee Machine/*
+!/Coffee Machine/task/
+/Coffee Machine/task/*
+!/Coffee Machine/task/main.js
